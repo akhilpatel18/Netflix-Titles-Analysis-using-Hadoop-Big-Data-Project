@@ -136,9 +136,9 @@ By combining **HDFS, MapReduce, and Hive**, the system transforms raw Netflix da
 
 ## 👨‍💻 Author
 
-**Akhil Raj Patel**  
-🎓 BCA (DS & AI)
-🏫 Babu Banarasi Das University  
+ **Akhil Raj Patel**  
+ 🎓 BCA (DS & AI)
+ 🏫 Babu Banarasi Das University  
 
 ---
 
